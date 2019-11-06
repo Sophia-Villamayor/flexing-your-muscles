@@ -51,7 +51,7 @@ img {
 
 .social {
   margin-left: auto;
-  padding: 0.1rem;
+  padding: 0 .1rem;
   display: flex;
 }
 
